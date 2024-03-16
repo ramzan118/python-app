@@ -1,4 +1,4 @@
-# technical-test-python-app
+# python-app
 
 #HERE ARE THE STEPS
 
